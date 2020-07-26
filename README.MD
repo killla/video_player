@@ -9,8 +9,6 @@ https://github.com/killla/video_player/tree/master
 
 ### Скриншот
 
-![img](https://github.com/killla/video_player/blob/master/screenshot.png)
-
 ![img](screenshot.png)
 
 ### Цель проекта
