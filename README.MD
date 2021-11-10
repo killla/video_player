@@ -1,11 +1,10 @@
 # Видеоплеер
-Проект создан для обучения верстке
+Проект представляет собой видеоплеер, готовый для встраивания в любые сайты.
+
+Используются иконки [Font Awesome](https://fontawesome.com/)  и фреймворк [jQuery](https://jquery.com/). 
 
 ### Ссылка на результат
 https://killla.github.io/video_player/
-
-### Ссылка на README
-https://github.com/killla/video_player/tree/master
 
 ### Скриншот
 
@@ -13,4 +12,4 @@ https://github.com/killla/video_player/tree/master
 
 ### Цель проекта
 
-Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).
+Проект создан в целях обучения верстке.
